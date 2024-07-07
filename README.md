@@ -23,3 +23,5 @@ Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has 
 2.	**Body Movement Control** (Simple, intuitive, direct control): When facing the puppet, the puppet moves in the same left and right direction as the controller.
 3.	**Hand Control** (Advanced, indirect control): The controller faces the screen, and the point where the controller faces on the screen is the corresponding control point for the puppet.
 4.	**Body Flipping Control** (Advanced, indirect control): The controller must cross hands, causing the distance between the two controllers in hand to exceed a certain value, after which the puppet performs a mirrored flip
+
+*See InteractionDesignMix folder for detailed design.*
