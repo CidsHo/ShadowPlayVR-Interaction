@@ -19,9 +19,13 @@ The standard control method for traditional shadow puppets involves six joint pa
 Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has developed multiple control methods focused on key control joints. Through the following four key controls, a basic, gradient control method is established that allows for shadow puppet performance (listed by difficulty and intuitiveness):
 
 
-1.	**Head Control** (Simple, intuitive, direct control): The puppet's head angle is determined by the user's viewing angle.
-2.	**Body Movement Control** (Simple, intuitive, direct control): When facing the puppet, the puppet moves in the same left and right direction as the controller.
-3.	**Hand Control** (Advanced, indirect control): The controller faces the screen, and the point where the controller faces on the screen is the corresponding control point for the puppet.
-4.	**Body Flipping Control** (Advanced, indirect control): The controller must cross hands, causing the distance between the two controllers in hand to exceed a certain value, after which the puppet performs a mirrored flip
+1.	[**Head Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/MoveWithElevation.cs) (Simple, intuitive, direct control): The puppet's head angle is determined by the user's viewing angle.
+2.	[**Body Movement Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/ObjectPositionBasedOnCameraMovement.cs) (Simple, intuitive, direct control): When facing the puppet, the puppet moves in the same left and right direction as the controller.
+3.	[**Hand Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/FollowControllerXY.cs) (Advanced, indirect control): The controller faces the screen, and the point where the controller faces on the screen is the corresponding control point for the puppet.
+4.	[**Body Flipping Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/FlipOnControllerSwitch.cs) (Advanced, indirect control): The controller must cross hands, causing the distance between the two controllers in hand to exceed a certain value, after which the puppet performs a mirrored flip
+
+Side Control Settings(Adding favor to Design XD)
+1. [Force Player Foward](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/ForcePlayerForward.cs) Standard pose for experiment setting.
+2. [Tele-control(Item)](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/MoveObjectWithController.cs) Item control via controller (Adapted).
 
 *See InteractionDesignMix folder for detailed design.*
