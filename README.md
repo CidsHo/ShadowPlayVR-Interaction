@@ -26,6 +26,6 @@ Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has 
 
 Side Control Settings(Adding favor to Design XD)
 1. [Force Player Foward](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/ForcePlayerForward.cs) Standard pose for experiment setting.
-2. [Tele-control(Item)](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/MoveObjectWithController.cs) Item control via controller (Adapted).
+2. [Tele-control (Item)](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/MoveObjectWithController.cs) Item control via controller (Adapted).
 
 *See InteractionDesignMix folder for detailed design.*
