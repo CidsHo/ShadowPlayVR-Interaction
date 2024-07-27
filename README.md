@@ -75,27 +75,6 @@ Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has 
 </code></pre>
 </details>
 
-<details>
-<summary>Demo-inCam</summary>
-<pre><code>
-
-<p align="center">
-    <br>
-    <img src="Images/Pic-DemoinCam1.jpg" width="50%"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="Images/Pic-DemoinCam2.jpg" width="50%"/>
-    <br>
-</p>
-
-</code></pre>
-</details>
-
-
-
 Side Control Settings(Adding favor to Design XD)
 1. [Force Player Foward](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/ForcePlayerForward.cs) Standard pose for experiment setting.
 2. [Tele-control (Item)](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/MoveObjectWithController.cs) Item control via controller (Adapted).
