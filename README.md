@@ -29,31 +29,11 @@ Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has 
 
 <p align="center">
     <br>
-    <img src="Images/Pic-TopL.png" width="100%"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="Images/Pic-MidL.png" width="100%"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="Images/Pic-BottomL.png" width="100%"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="Images/Pic-Left.png" width="100%"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="Images/Pic-Right.png" width="100%"/>
+    <img src="Images/Pic-TopL.png" width="90%"/>
+    <img src="Images/Pic-MidL.png" width="90%"/>
+    <img src="Images/Pic-BottomL.png" width="90%"/>
+    <img src="Images/Pic-Left.png" width="90%"/>
+    <img src="Images/Pic-Right.png" width="90%"/>
     <br>
 </p>
 
