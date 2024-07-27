@@ -81,13 +81,13 @@ Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has 
 
 <p align="center">
     <br>
-    <img src="Images/Pic-DemoinCam1.png" width="50%"/>
+    <img src="Images/Pic-DemoinCam1.jpg" width="50%"/>
     <br>
 </p>
 
 <p align="center">
     <br>
-    <img src="Images/Pic-DemoinCam2.png" width="50%"/>
+    <img src="Images/Pic-DemoinCam2.jpg" width="50%"/>
     <br>
 </p>
 
