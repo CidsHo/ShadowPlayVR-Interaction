@@ -22,7 +22,79 @@ Based on the adjustments to the shadow puppet control methods, ShadowPlayVR has 
 1.	[**Head Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/MoveWithElevation.cs) (Simple, intuitive, direct control): The puppet's head angle is determined by the user's viewing angle.
 2.	[**Body Movement Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/ObjectPositionBasedOnCameraMovement.cs) (Simple, intuitive, direct control): When facing the puppet, the puppet moves in the same left and right direction as the controller.
 3.	[**Hand Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/FollowControllerXY.cs) (Advanced, indirect control): The controller faces the screen, and the point where the controller faces on the screen is the corresponding control point for the puppet.
+
+<details>
+<summary>Demo-HandControl</summary>
+<pre><code>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-TopL.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-MidL.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-BottomL.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-Left.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-Right.png" width="50%"/>
+    <br>
+</p>
+
+</code></pre>
+</details>
+
 4.	[**Body Flipping Control**](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/FlipOnControllerSwitch.cs) (Advanced, indirect control): The controller must cross hands, causing the distance between the two controllers in hand to exceed a certain value, after which the puppet performs a mirrored flip
+
+<details>
+<summary>Demo-Rigging</summary>
+<pre><code>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-Demo.png" width="50%"/>
+    <br>
+</p>
+
+</code></pre>
+</details>
+
+<details>
+<summary>Demo-inCam</summary>
+<pre><code>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-DemoinCam1.png" width="50%"/>
+    <br>
+</p>
+
+<p align="center">
+    <br>
+    <img src="Images/Pic-DemoinCam2.png" width="50%"/>
+    <br>
+</p>
+
+</code></pre>
+</details>
+
+
 
 Side Control Settings(Adding favor to Design XD)
 1. [Force Player Foward](https://github.com/CidsHo/ShadowPlayVR-Interaction/blob/main/InteractionDesignMix/ForcePlayerForward.cs) Standard pose for experiment setting.
