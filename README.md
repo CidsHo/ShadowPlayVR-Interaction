@@ -7,12 +7,13 @@ To accurately capture the essence of shadow puppetry, ShadowPlayVR incorporates 
 
 ## About Shadow Play
 
-Shadow play, with its reliance on puppet manipulation and visual storytelling, recognized in the UNESCO Intangible Cultural Heritage list,  presents an exemplary case of how VR can extend traditional artistic practices into the digital realm. The art form's emphasis on manipulation closely mirrors the general input method (controllers) to VR, making it an ideal subject for investigating the potential of VR to recreate real life hand-on traditional skills through interaction design and support artistic practice within, engage diverse audiences.
+Shadow play, with its reliance on puppet manipulation and visual storytelling,  presents an exemplary case of how VR can extend traditional artistic practices into the digital realm. The art form's emphasis on manipulation closely mirrors the general input method (controllers) to VR, making it an ideal subject for investigating the potential of VR to recreate real life hand-on traditional skills through interaction design and support artistic practice within, engage diverse audiences.
 
 
 ## Interaction Design
 
 Adapting the art of shadow puppetry to virtual reality systems requires adjustments in interaction. ShadowPlayVR, based on the craft of shadow puppetry, features two main control characteristics: multi-point coordination and indirect manipulation. 
+
 - Multi-point coordination requires puppeteers to control multiple joints of the puppet simultaneously with rods to achieve complete movements. 
 - Indirect manipulation means the puppeteer's hand movements do not directly correspond to the puppet's movements; instead, movements are translated through the control rods to manipulate the puppet. 
 
